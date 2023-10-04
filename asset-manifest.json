@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d955350.css",
-    "main.js": "/static/js/main.405636da.js",
-    "static/media/bg.jpg": "/static/media/bg.1ce29f77462b3346322f.jpg",
-    "index.html": "/index.html",
-    "main.9d955350.css.map": "/static/css/main.9d955350.css.map",
-    "main.405636da.js.map": "/static/js/main.405636da.js.map"
+    "main.css": "/Guitarhouse/static/css/main.eb215a7c.css",
+    "main.js": "/Guitarhouse/static/js/main.405636da.js",
+    "static/media/bg.jpg": "/Guitarhouse/static/media/bg.1ce29f77462b3346322f.jpg",
+    "index.html": "/Guitarhouse/index.html",
+    "main.eb215a7c.css.map": "/Guitarhouse/static/css/main.eb215a7c.css.map",
+    "main.405636da.js.map": "/Guitarhouse/static/js/main.405636da.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d955350.css",
+    "static/css/main.eb215a7c.css",
     "static/js/main.405636da.js"
   ]
 }
